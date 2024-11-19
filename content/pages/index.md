@@ -745,7 +745,7 @@ sections:
     type: GenericSection
 seo:
   metaTitle: amziyahcodecreatifity
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: 'this web for free template desain web '
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
