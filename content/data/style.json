@@ -61,7 +61,7 @@
         "borderRadius": "lg",
         "shadow": "none",
         "horizontalPadding": 30,
-        "verticalPadding": 11,
+        "verticalPadding": 10,
         "type": "ThemeStyleButton"
     },
     "buttonSecondary": {
